@@ -1,0 +1,16 @@
+# SBT / Scala generated files
+target/
+project/target/
+.bsp/
+.metals/
+.bloop/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Local practice build
+foo-build/
